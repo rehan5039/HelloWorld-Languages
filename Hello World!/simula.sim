@@ -1,0 +1,4 @@
+-- Hello World in Simula
+begin
+    OutText("Hello, World!");
+end;

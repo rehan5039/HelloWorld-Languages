@@ -1,0 +1,3 @@
+procedure options(main);
+  put skip list('Hello, World!');
+end procedure;

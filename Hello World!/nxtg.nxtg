@@ -1,0 +1,2 @@
+// Hello World in NXT-G
+Display Text("Hello, World!")

@@ -1,0 +1,4 @@
+// Hello World in Seed7
+proc main is
+    put("Hello, World!\n")
+end main;
