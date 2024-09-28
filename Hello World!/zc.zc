@@ -1,0 +1,2 @@
+// Hello World in ZC
+printf("Hello, World!");

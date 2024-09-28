@@ -1,0 +1,3 @@
+/* Hello World in Maxima */
+display2d: false;
+print("Hello, World!");

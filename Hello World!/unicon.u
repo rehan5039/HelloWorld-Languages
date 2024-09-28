@@ -1,0 +1,2 @@
+# Hello World in Unicon
+stdout("Hello, World!\n")

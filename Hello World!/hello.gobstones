@@ -1,0 +1,4 @@
+# Hello World in Gobstones
+Program {
+  write("Hello, World!")
+}

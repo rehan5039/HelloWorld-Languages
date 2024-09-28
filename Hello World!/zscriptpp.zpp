@@ -1,0 +1,2 @@
+// Hello World in Zscript++
+Console.WriteLine("Hello, World!");

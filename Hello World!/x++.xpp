@@ -1,0 +1,4 @@
+static void main(Args _args)
+{
+    info("Hello, World!");
+}
