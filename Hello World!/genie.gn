@@ -1,0 +1,4 @@
+# Hello World in Genie
+public void main() {
+    print("Hello, World!\n")
+}

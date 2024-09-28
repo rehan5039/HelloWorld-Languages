@@ -1,0 +1,4 @@
+/* Hello World in Bliss */
+.BEGIN
+  .WRITE "Hello, World!"
+.END

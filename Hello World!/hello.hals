@@ -1,0 +1,4 @@
+! Hello World in HAL/S
+BEGIN
+  OUTPUT "Hello, World!";
+END;

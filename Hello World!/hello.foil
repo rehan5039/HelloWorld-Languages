@@ -1,0 +1,2 @@
+// Hello World in FOIL
+output "Hello, World!";

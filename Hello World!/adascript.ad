@@ -1,0 +1,2 @@
+-- Hello World in AdaScript
+put_line("Hello, World!");
